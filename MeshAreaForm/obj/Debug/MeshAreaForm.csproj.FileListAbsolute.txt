@@ -1,0 +1,14 @@
+D:\VisualStudio\MeshAreaForm\MeshAreaForm\bin\Debug\MeshAreaForm.exe.config
+D:\VisualStudio\MeshAreaForm\MeshAreaForm\obj\Debug\MeshAreaForm.csprojResolveAssemblyReference.cache
+D:\VisualStudio\MeshAreaForm\MeshAreaForm\obj\Debug\MeshAreaForm.Form1.resources
+D:\VisualStudio\MeshAreaForm\MeshAreaForm\obj\Debug\MeshAreaForm.Properties.Resources.resources
+D:\VisualStudio\MeshAreaForm\MeshAreaForm\obj\Debug\MeshAreaForm.csproj.GenerateResource.Cache
+D:\VisualStudio\MeshAreaForm\MeshAreaForm\bin\Debug\MeshAreaForm.exe
+D:\VisualStudio\MeshAreaForm\MeshAreaForm\bin\Debug\MeshAreaForm.pdb
+D:\VisualStudio\MeshAreaForm\MeshAreaForm\bin\Debug\OpenTK.dll
+D:\VisualStudio\MeshAreaForm\MeshAreaForm\bin\Debug\OpenTK.GLControl.dll
+D:\VisualStudio\MeshAreaForm\MeshAreaForm\bin\Debug\OpenTK.pdb
+D:\VisualStudio\MeshAreaForm\MeshAreaForm\bin\Debug\OpenTK.xml
+D:\VisualStudio\MeshAreaForm\MeshAreaForm\bin\Debug\OpenTK.GLControl.xml
+D:\VisualStudio\MeshAreaForm\MeshAreaForm\obj\Debug\MeshAreaForm.exe
+D:\VisualStudio\MeshAreaForm\MeshAreaForm\obj\Debug\MeshAreaForm.pdb
